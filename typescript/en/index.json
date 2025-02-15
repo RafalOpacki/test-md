@@ -1,0 +1,14 @@
+[
+  {
+    "id": "abc-12",
+    "question": "Typescript Abc?",
+    "answer": "Typescript Abc",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "abc-122",
+    "question": "Typescript Abc2?",
+    "answer": "Typescript Abc2",
+    "difficulty": "intermediate"
+  }
+]

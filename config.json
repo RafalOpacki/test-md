@@ -1,0 +1,15 @@
+{
+  "availableLanguages": ["pl", "en"],
+  "categories": [
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "img": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "img": "https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
+    }
+  ]
+}

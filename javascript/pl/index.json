@@ -1,0 +1,14 @@
+[
+  {
+    "id": "abc-12",
+    "question": "Javascript Abc?",
+    "answer": "Javascript Abc",
+    "difficulty": "beginner"
+  },
+  {
+    "id": "abc-122",
+    "question": "Javascript Abc2?",
+    "answer": "Javascript Abc2",
+    "difficulty": "intermediate"
+  }
+]
